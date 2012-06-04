@@ -1,3 +1,6 @@
+通过npm安装:
+	npm install weibo-packager 
+
 svn仓库地址:
 https://svn1.intra.sina.com.cn/weibo/ria/tools/combine-npm/
 
