@@ -14,7 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/dongyuwei/weibo-packager.git"
 	},
-	"version" : "1.0",
+	"version" : "1.0.0",
 	"dependencies" : {
 		"uglify-js" : "1.2.6",
 		"arguments" : "1.0.0",
