@@ -1,10 +1,7 @@
 通过npm安装:
 	npm install weibo-packager 
 
-svn仓库地址:
-https://svn1.intra.sina.com.cn/weibo/ria/tools/combine-npm/
-
-git:
+git仓库地址:
 https://github.com/dongyuwei/weibo-packager.git
 
 一,处理步骤(部分特殊处理未罗列,具体可参见源码):
@@ -89,4 +86,3 @@ https://github.com/dongyuwei/weibo-packager.git
 1 本系统在mac和centos上测试通过: mac node 版本为v0.6.9; CentOS 5.4 上 node 版本为 v0.6.10
 2 系统内置uglify-js版本已经升级到1.2.6
 3 由于历史原因(兼容微博目前的前端架构),对js工程下/conf/目录读写需要特殊处理,阅读源码时请注意.
-4 2011-5-11 增加动态合并文件(css,js)服务 , 用法和文档参考 http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=7147981 
