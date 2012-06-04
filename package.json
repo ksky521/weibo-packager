@@ -1,0 +1,19 @@
+{
+	"name" : "weibo-packager",
+	"description" : "batch compressor for js and css, from sina weibo",
+	"author" : {
+		"name" : "dongyuwei",
+		"email" : "yuwei@staff.sina.com.cn",
+		"url" : "http://session.im"
+	},
+	"contributors" : [{
+		"name" : "Robin Young",
+		"email" : "yonglin@staff.sina.com.cn"
+	}],
+	"version" : "1.0",
+	"dependencies" : {
+		"uglify-js" : "1.2.6",
+		"arguments" : "1.0.0",
+		"express" : "2.5.8"
+	}
+}
