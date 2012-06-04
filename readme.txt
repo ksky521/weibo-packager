@@ -1,5 +1,8 @@
 svn仓库地址:
-https://svn1.intra.sina.com.cn/weibo/ria/tools/combine-2012-02-20/
+https://svn1.intra.sina.com.cn/weibo/ria/tools/combine-npm/
+
+git:
+https://github.com/dongyuwei/weibo-packager.git
 
 一,处理步骤(部分特殊处理未罗列,具体可参见源码):
 1 对js工程(如t4/home等):

@@ -10,6 +10,10 @@
 		"name" : "Robin Young",
 		"email" : "yonglin@staff.sina.com.cn"
 	}],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dongyuwei/weibo-packager.git"
+	},
 	"version" : "1.0",
 	"dependencies" : {
 		"uglify-js" : "1.2.6",
